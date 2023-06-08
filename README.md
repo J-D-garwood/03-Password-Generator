@@ -2,7 +2,7 @@
 
 ## Description
 - What was your motivation?
-My motivation of this project was to build a simple password generator that would allow a user to generate a secure password based on their character (numbers, letters, special) preferences.
+My motivation for this project was to build a simple password generator that would allow a user to generate a secure password based on their character (numbers, letters, special) preferences.
 
 - Why did you build this project? 
 ^
