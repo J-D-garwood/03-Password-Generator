@@ -26,7 +26,7 @@ No collaborators on this project
 N/a
 
 ## link to deploayed application
-https://j-d-garwood.github.io/J-D-Garwoods-Coding-Project-Portfolio/
+https://j-d-garwood.github.io/03-Password-Generator/
 
 ## Image of deployed application
 
